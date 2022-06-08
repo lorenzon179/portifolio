@@ -1,0 +1,3 @@
+foi usado um template como base para ser feito.
+Fonte pega no fonts.google.com e icones no fontawesome.com
+Textos foram tirados do www.acnur.org/portugues/ 
